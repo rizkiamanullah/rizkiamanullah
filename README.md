@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on PT. Trusur Unggul Teknusa<br>🌱 I’m currently learning React Native, React Js, Django, & Laravel<br>💬 Ask me about something that I'm currently learn<br>⚡ Fun fact I like cats very much
+🔭 I’m currently working on PT. SUCOFINDO (Persero)<br>🌱 I’m currently learning Next JS, React JS, Laravel<br>💬 Ask me about something that I'm currently learn<br>
 
 
 ## 🌐 Socials:
