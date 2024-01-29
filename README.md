@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on PT. SUCOFINDO (Persero)<br>🌱 I’m currently learning Next JS, React JS, Laravel<br>💬 Ask me about something that I'm currently learn<br>
+🔭 I’m currently working on PT. SUCOFINDO (Persero)<br>
 
 
 ## 🌐 Socials:
